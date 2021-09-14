@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Online Groceries</string>
+    <string name="search">Search</string>
+    <string name="top_discounted_items">Top Discounted Items</string>
+    <string name="shop_groceries">Shop groceries item through daily grocery app \nOnline super market storeat best price.</string>
+    <string name="daily_groceries">Daily Groceries</string>
+    <string name="see_more">See More</string>
+    <string name="select_categories">Select Categories</string>
+    <string name="product_name">Product Name</string>
+    <string name="fingerprint_icon">FingerPrint Icon</string>
+    <string name="textview">TextView</string>
+    <string name="qty">qty</string>
+    <string name="unit">unit</string>
+    <string name="product_details">Product Details</string>
+</resources>
